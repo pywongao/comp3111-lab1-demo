@@ -3,7 +3,9 @@
 20369440
 Wong Pui Yee
 
-commit"attached a PNG"
+
 ![GitHub Logo](comp3111-lab1-demo/Capture.PNG)
-        
+Format: ![Alt Text](url)
       
+
+commit"attached a PNG"
