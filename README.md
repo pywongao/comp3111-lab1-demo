@@ -4,7 +4,7 @@
 Wong Pui Yee
 
 
-![GitHub Logo](comp3111-lab1-demo/Capture.PNG)
+![GitHub Logo](Capture.PNG)
 Format: ![Alt Text](url)
       
 
